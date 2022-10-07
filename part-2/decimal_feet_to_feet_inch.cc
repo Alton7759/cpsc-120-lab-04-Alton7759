@@ -1,11 +1,11 @@
 // Christian Alton bonilla
 // CPSC 120-01
-// 2022-09-21
+// 2022-10-7
 // Alton77@csu.fullerton.edu
 // @alton7759
 //
 // Lab 04-01
-// Partners: @taco
+// Partners: @jaylinmai
 //
 // Program to convert decimalized feet to feet, inches, and fractional inches,
 // up to one eigth.
